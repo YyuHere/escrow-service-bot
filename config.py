@@ -12,7 +12,7 @@ load_dotenv()
 DEBUG = False
 
 # Configuration variable
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("MTE1NzMzNzQ0NDQ4ODg1NTY2NQ.GGBVZH.rw3I7Enj8G0twbOLfuwWCEAQHlmE_xRilt7lg0")
 
 ADMIN_ID = os.getenv("ADMIN_ID")
 
